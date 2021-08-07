@@ -16,7 +16,7 @@
   - What are are convolutional neural networks?
   - Why is deep learning so powerful and what can it be used for?
   - Be part of a rapidly growing field in data science; there's no better time than now to get started with neural networks.
-- [IBM Deep Learning Fundamentals Credential](#)  
+- [IBM Deep Learning Fundamentals Credential](https://www.credly.com/badges/97756631-24ed-4306-9722-1937340f8d76/public_url)  
 
 ---------------------------------------------------------------
 
